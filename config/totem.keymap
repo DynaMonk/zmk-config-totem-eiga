@@ -67,7 +67,7 @@
             bindings = <
               &kp TILDE       &kp LS(TAB)  &trans        &kp TAB    &kp LBRC    &kp RBRC  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans
               &kp LEFT_SHIFT  &kp LEFT     &kp UP_ARROW  &kp RIGHT  &kp LBKT    &kp RBKT  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_0
-&kp LEFT_ALT  &trans          &kp MINUS    &kp DOWN      &kp PLUS   &kp LPAR    &kp RPAR  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans        &trans
+&kp LEFT_ALT  &trans          &kp MINUS    &kp DOWN      &kp PLUS   &kp LPAR    &kp RPAR  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans        &kp CAPS
                                            &trans        &trans     &trans      &trans    &trans        &kp DOT
             >;
         };
